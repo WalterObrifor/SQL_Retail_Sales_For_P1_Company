@@ -2,15 +2,15 @@
 
 ## Project Overview
 
-**Project Title**: Retail Sales Analysis
-**Project Level**: Intermediate
-**Database**: `p1_retail_db`
+### **Project Title**: Retail Sales Analysis
+### **Project Level**: Intermediate
+### **Database**: `p1_retail_db`
 
-P1 is a fast-growing retail chain specializing in consumer electronics, clothings and home beauty, with stores across multiple regions. Known for its competitive pricing and diverse product range, the company aims to leverage data-driven strategies to enhance sales performance and customer satisfaction.
+P1 is a fast-growing retail chain specializing in consumer electronics, clothings and beauty, with stores across multiple regions. Known for its competitive pricing and diverse product range, the company aims to leverage data-driven strategies to enhance sales performance and customer satisfaction.
 
-As the newly hired Data Analyst, you are tasked with analyzing P1’s sales database to uncover trends in customer purchasing behavior and product performance. The dataset includes transaction records like price, customer identification code, product categories, etc.
+As their newly hired Data Analyst, i was tasked to analyze P1’s sales database to uncover trends in customer purchasing behavior and product performance. The dataset includes transaction records like price, customer identification code, product categories, etc.
 
-Your analysis will cover setting up a retail sales database, performing exploratory data analysis (EDA), finding patterns and answering specific business questions through SQL queries. The insights will guide inventory optimization, targeted promotions, and strategic expansion—ensuring that P1 maintains its competitive edge in a dynamic market.
+My analysis covers setting up a retail sales database, performing exploratory data analysis (EDA), finding patterns and answering specific business questions through SQL queries. This insights will guide inventory optimization, targeted promotions, and strategic expansion—ensuring that P1 maintains its competitive edge in a dynamic market.
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. 
 
@@ -197,7 +197,12 @@ GROUP BY shift
 
 - **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Electronics, Clothing and Beauty.
 - **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
+- The total number of transactions made by famales purchasing beauty products is far more than the transactions made my male
 - **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
+- The customer with customer_id 3, made the highest total sales
+- in 2022, the highest average sales was made in the month of July. While in 2023, the highest avavage sale was made in February
+- The average age of customers that purchase beauty products is 40 years
+- Both male and female investe in buy clothings, with 12 male purchase above that of female.
 - **Customer Insights**: The analysis identifies the top-spending customers and the most popular product categories.
 
 ## Reports
