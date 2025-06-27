@@ -1,9 +1,9 @@
-# Retail Sales Analysis SQL Project
+# Retail Sales Analysis (SQL Project)
 
 ## Project Overview
 
 ### **Project Title**: Retail Sales Analysis
-### **Beginner Friendly Analysis**
+### **Beginners Friendly Analysis**
 ### **Database**: `p1_retail_db`
 
 ![Retail-Sales-Rep](https://github.com/user-attachments/assets/43d9a72f-d812-4a71-b25f-bac270eb4867)
@@ -11,7 +11,7 @@
 ### **Introduction**: `p1_retail_db`
 P1 is a fast-growing retail chain specializing in consumer electronics, clothings and beauty, with stores across multiple regions. Known for its competitive pricing and diverse product range, the company aims to leverage data-driven strategies to enhance sales performance and customer satisfaction.
 
-As their newly hired Data Analyst, i was tasked to analyze P1’s sales database to uncover trends in customer purchasing behavior and product performance. The dataset includes transaction records like price, customer identification code, product categories, etc.
+As their newly hired Data Analyst, i was tasked to do some basic analysis on P1’s sales database to uncover trends in customer purchasing behavior and product performance. The dataset includes transaction records like price, customer identification code, product categories, etc.
 
 My analysis covers setting up a retail sales database, performing exploratory data analysis (EDA), finding patterns and answering specific business questions through SQL queries. This insights will guide inventory optimization, targeted promotions, and strategic expansion—ensuring that P1 maintains its competitive edge in a dynamic market.
 
