@@ -3,7 +3,7 @@
 ## Project Overview
 
 ### **Project Title**: Retail Sales Analysis
-### **Project Level**: Beginner Friendly To Advan
+### **Project Level**: Intermediate
 ### **Database**: `p1_retail_db`
 
 P1 is a fast-growing retail chain specializing in consumer electronics, clothings and beauty, with stores across multiple regions. Known for its competitive pricing and diverse product range, the company aims to leverage data-driven strategies to enhance sales performance and customer satisfaction.
