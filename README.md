@@ -5,7 +5,8 @@
 ### **Project Title**: Retail Sales Analysis
 ### **Project Level**: Intermediate
 
-![](Retail-Sales-Rep.jpg)
+![](![Retail-Sales-3](https://github.com/user-attachments/assets/f8cd686d-dae2-4a30-9c46-669e1d718c1d)
+.jpg)
 
 ### **Database**: `p1_retail_db`
 P1 is a fast-growing retail chain specializing in consumer electronics, clothings and beauty, with stores across multiple regions. Known for its competitive pricing and diverse product range, the company aims to leverage data-driven strategies to enhance sales performance and customer satisfaction.
