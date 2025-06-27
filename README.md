@@ -3,7 +3,7 @@
 ## Project Overview
 
 ### **Project Title**: Retail Sales Analysis
-### **Project Level**: Intermediate
+#### **Beginner Friendly Analysis**
 
 ![Retail-Sales-Rep](https://github.com/user-attachments/assets/43d9a72f-d812-4a71-b25f-bac270eb4867)
 
@@ -196,6 +196,8 @@ GROUP BY shift
 ```
 
 ## Findings
+
+![images3](https://github.com/user-attachments/assets/ffb414d2-9d64-4995-9dd8-fdb9a7801921)
 
 - **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Electronics, Clothing and Beauty.
 - **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
