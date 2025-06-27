@@ -3,11 +3,12 @@
 ## Project Overview
 
 ### **Project Title**: Retail Sales Analysis
-#### **Beginner Friendly Analysis**
+### **Beginner Friendly Analysis**
+### **Database**: `p1_retail_db`
 
 ![Retail-Sales-Rep](https://github.com/user-attachments/assets/43d9a72f-d812-4a71-b25f-bac270eb4867)
 
-### **Database**: `p1_retail_db`
+### **Introduction**: `p1_retail_db`
 P1 is a fast-growing retail chain specializing in consumer electronics, clothings and beauty, with stores across multiple regions. Known for its competitive pricing and diverse product range, the company aims to leverage data-driven strategies to enhance sales performance and customer satisfaction.
 
 As their newly hired Data Analyst, i was tasked to analyze P1’s sales database to uncover trends in customer purchasing behavior and product performance. The dataset includes transaction records like price, customer identification code, product categories, etc.
@@ -198,6 +199,8 @@ GROUP BY shift
 ## Findings
 
 ![images3](https://github.com/user-attachments/assets/ffb414d2-9d64-4995-9dd8-fdb9a7801921)
+
+----
 
 - **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Electronics, Clothing and Beauty.
 - **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
