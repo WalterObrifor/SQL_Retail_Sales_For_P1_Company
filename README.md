@@ -3,7 +3,7 @@
 ## Project Overview
 
 ### **Project Title**: Retail Sales Analysis
-### **Beginners Friendly Analysis (Containing My Findings, Report, and Conclusions)**
+### **Project Level**: Beginners Friendly Analysis (Containing My Findings, Report, and Conclusions)**
 ### **Database**: `p1_retail_db`
 
 ![Retail-Sales-Rep](https://github.com/user-attachments/assets/43d9a72f-d812-4a71-b25f-bac270eb4867)
