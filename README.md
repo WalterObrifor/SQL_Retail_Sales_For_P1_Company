@@ -3,7 +3,7 @@
 ## Project Overview
 
 ### **Project Title**: Retail Sales Analysis
-### **Beginners Friendly Analysis**
+### **Beginners Friendly Analysis (Containing My Findings, Report, and Conclusions**
 ### **Database**: `p1_retail_db`
 
 ![Retail-Sales-Rep](https://github.com/user-attachments/assets/43d9a72f-d812-4a71-b25f-bac270eb4867)
@@ -231,5 +231,5 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 - **YouTube**: [Subscribe to my channel for tutorials and insights] ()
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/walter-obrifor-1658b21a0/)
 
-Thank you for your support, and I look forward to connecting with you!
+### Thank you for being here, and I look forward to connecting with you!
  
