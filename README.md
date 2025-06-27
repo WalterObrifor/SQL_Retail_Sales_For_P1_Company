@@ -17,7 +17,7 @@ My analysis covers setting up a retail sales database, performing exploratory da
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. 
 
-## Objectives
+## Objectives (Problem Solving)
 
 1. **Set up a retail sales database**: Create and populate a retail sales database with the provided sales data.
 2. **Data Cleaning**: Identify and remove any records with missing or null values.
